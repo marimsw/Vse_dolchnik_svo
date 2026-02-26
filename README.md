@@ -1,1 +1,2 @@
+Анализировать полученный файл с репозитория Smerti_SVO_Stop_Fraza_JSONL_domen
 # Vse_dolchnik_svo
